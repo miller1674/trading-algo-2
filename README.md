@@ -1,1 +1,1 @@
-# algo-trader-v1
+# trading-algo-2
